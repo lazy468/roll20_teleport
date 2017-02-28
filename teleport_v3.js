@@ -1,4 +1,4 @@
-/* ************ TELEPORTING SCRIPT **************************
+/* ************ TELEPORTING SCRIPT V3 ************************
 * The intention of this script is to allow the DM to teleport
 * one or all characters to a location based on a token placed 
 * on the DM layer of the map. 
